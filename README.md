@@ -1,1 +1,1 @@
-# first-assignment-peer
+# First-assignment-peer
